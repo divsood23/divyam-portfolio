@@ -1,7 +1,5 @@
-In `app/page.tsx`, press **Ctrl + A**, then paste this complete replacement and commit it:
-
-```tsx
 "use client";
+
 
 import { useEffect, useRef, useState } from "react";
 import {
@@ -634,4 +632,4 @@ export default function Home() {
     </main>
   );
 }
-```
+
